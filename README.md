@@ -113,3 +113,4 @@ customer-segmentation-ml/
 ├── requirements.txt
 └── README.md
 
+Streamlit link: https://trnrdja4appy7emqy2twyre.streamlit.app/
